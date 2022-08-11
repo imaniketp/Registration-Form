@@ -1,14 +1,14 @@
 
 
 body {
-    background-image: url(" https://images.unsplash.com/photo-1519389950473-47ba0277781c?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80%22");
+    background-image: url("bgimage.jpg");
   }
 .container {
     margin-top: 30px;
     box-sizing: border-box;
     border: 1px solid white ;
     border-radius: 30px;
-    background-color: rgba(0, 0, 0, 0.3);
+    background-color: rgba(0, 0, 0, 0.6);
     box-shadow: 0 19px 38px rgba(0,0,0,0.30), 0 15px 12px rgba(0,0,0,0.22);
     
 }
@@ -21,7 +21,7 @@ body {
 .title {
     text-align: center;
     font-family: 'Uchen', serif;
-    color: rgb(24, 19, 22);
+    color: rgb(255, 255, 255);
     padding-top: 20px;
 
 }
